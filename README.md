@@ -8,8 +8,8 @@ or ready entries in [Pull Requests](https://github.com/kravietz/awesome-speleo/p
 Data collection:
 
 * [BRIC4](https://www.bricsurvey.com)
-* [SAP (Shetland Attack Pony)](https://www.shetlandattackpony.co.uk/index.php?route=common/home)
 * [DistoX2](https://paperless.bheeb.ch)
+* [SAP (Shetland Attack Pony)](https://www.shetlandattackpony.co.uk/index.php?route=common/home)
 
 LIDAR:
 
@@ -48,11 +48,11 @@ Cave survey data management and sketching apps:
 
 There's plenty of headlamps on the market, so only lighting designed or suitable for caving is listed here:
 
-* [MidiLED Kostka](https://www.midiled.pl/)
+* [Earth Worm](https://earthwormcavelight.co.uk)
+* [ElSpeleo](http://www.elwork-speleo.hr/Index.aspx?l=EN)
+* [Fenix HM series](https://www.fenixlighting.com/collections/headlamps)
+* [Petzl Duo series](https://www.petzl.com/GB/en/Sport/Headlamps)
+* [MidiLED](https://www.midiled.pl/)
 * [Scurion](https://www.scurion.ch/)
 * [StenLight](http://www.stenlight.com)
-* [ElSpeleo](http://www.elwork-speleo.hr/Index.aspx?l=EN)
-* [Petzl Duo](https://www.petzl.com/GB/en/Sport/Headlamps)
 * [Zebra Lights](https://www.zebralight.com/Headlamp_c_7.html) US only
-* [Fenix HM](https://www.fenixlighting.com/collections/headlamps)
-* [Earth Worm](https://earthwormcavelight.co.uk)
