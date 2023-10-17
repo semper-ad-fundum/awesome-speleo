@@ -18,6 +18,14 @@ LIDAR:
 * [Poor Man's Laser Scanner (PMLS)](https://github.com/poormanslaserscanner) continuous scanning firmware for DistoX2, discontinued
 * [Prometheus](https://3dcavesurveys.com/index.php/prometheus/), upcoming
 
+GNSS:
+
+Software and hardware for precise (<1 m) object location:
+
+* [Location fixing for cave surveys: How to obtain a fixed point for a cave survey](https://www.cavinguk.co.uk/info/locatingsurveys.html) tutorial on the challenges of precise cave entrance location
+* [Trimble Catalyst](https://geospatial.trimble.com/en/products/software/trimble-catalyst) used Trimble DA1 can be purchased at reasonable prices
+* [ArduSimple RTK Calibrated Surveyor Kit](https://www.ardusimple.com/product/rtk-surveyor-kit-accessories/)
+
 ## Surveying software
 
 ### Mobile
