@@ -75,3 +75,12 @@ There's plenty of headlamps on the market, so only lighting designed or suitable
 * [Scurion](https://www.scurion.ch/)
 * [StenLight](http://www.stenlight.com)
 * [Zebra Lights](https://www.zebralight.com/Headlamp_c_7.html) US only
+
+## Cave communications
+
+Please read [Through-the-earth mine communications](https://en.wikipedia.org/wiki/Through-the-earth_mine_communications) first for introduction.
+
+* [HeyPhone](http://bcra.org.uk/creg/heyphone/introduction.html)
+* [Systeme Nicola](https://pe2bz.philpem.me.uk/Comm/-%20ELF-VLF/-%20ELF-Theory/-%20CaveTheory/CaveRadio1/System-Nicola-Mk2/SYTEME_NICOLA_Mk2.html)
+* [CaveLink](https://www.cavelink.com/cl3x_neu/index.php/en/)
+* [Sybet](https://sybet.eu/batnode/)
