@@ -11,6 +11,7 @@ Data collection:
 * [DistoX2](https://paperless.bheeb.ch) discontinued
 * [Disto XBLE](https://www.youtube.com/watch?v=6OvoH-lpF4c), DistoX2 redesigned by Siwei Tian (China)
 * [SAP (Shetland Attack Pony)](https://www.shetlandattackpony.co.uk/index.php?route=common/home)
+* [Cave Sniper](https://speleonews.pl/cave-sniper/)
 
 LIDAR:
 
