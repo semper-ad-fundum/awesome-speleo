@@ -70,8 +70,9 @@ There's plenty of headlamps on the market, so only lighting designed or suitable
 * [Earth Worm](https://earthwormcavelight.co.uk)
 * [ElSpeleo](http://www.elwork-speleo.hr/Index.aspx?l=EN)
 * [Fenix HM series](https://www.fenixlighting.com/collections/headlamps)
-* [Petzl Duo series](https://www.petzl.com/GB/en/Sport/Headlamps)
+* [Little Monkey](https://littlemonkeycaving.co.uk/Rude-Nora-4/)
 * [MidiLED](https://www.midiled.pl/)
+* [Petzl Duo series](https://www.petzl.com/GB/en/Sport/Headlamps)
 * [Scurion](https://www.scurion.ch/)
 * [StenLight](http://www.stenlight.com)
 * [Zebra Lights](https://www.zebralight.com/Headlamp_c_7.html) US only
