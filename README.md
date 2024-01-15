@@ -79,9 +79,14 @@ There's plenty of headlamps on the market, so only lighting designed or suitable
 
 ## Cave communications
 
-Please read [Through-the-earth mine communications](https://en.wikipedia.org/wiki/Through-the-earth_mine_communications) first for introduction.
+Please read [Through-the-earth mine communications](https://en.wikipedia.org/wiki/Through-the-earth_mine_communications) first for introduction to cave comms. Below only operational systems are listed:
 
 * [HeyPhone](http://bcra.org.uk/creg/heyphone/introduction.html)
 * [Systeme Nicola](https://pe2bz.philpem.me.uk/Comm/-%20ELF-VLF/-%20ELF-Theory/-%20CaveTheory/CaveRadio1/System-Nicola-Mk2/SYTEME_NICOLA_Mk2.html)
 * [CaveLink](https://www.cavelink.com/cl3x_neu/index.php/en/)
 * [Sybet](https://sybet.eu/batnode/)
+
+Reading:
+
+* [ECRA Communications Catalogue](https://caverescue.eu/documents/communication/communications-catalogue/) from European Cave Rescue Group (ECRA), listing deprecated and current cave communication systems
+* [CREG Journal](https://bcra.org.uk/pub/cregj/index.html?j=) (British Caving Research Association: The Cave Radio & Electronics Group, requires subscription)
