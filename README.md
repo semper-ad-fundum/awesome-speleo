@@ -7,7 +7,7 @@ or ready entries in [Pull Requests](https://github.com/kravietz/awesome-speleo/p
 
 Data collection:
 
-* [BRIC](https://www.bricsurvey.com) BRIC5 upcoming
+* [BRIC](https://www.bricsurvey.com) BRIC5
 * [DistoX2](https://paperless.bheeb.ch) discontinued
 * [Disto XBLE](https://www.youtube.com/watch?v=6OvoH-lpF4c), DistoX2 redesigned by Siwei Tian (China)
 * [SAP (Shetland Attack Pony)](https://www.shetlandattackpony.co.uk/index.php?route=common/home)
