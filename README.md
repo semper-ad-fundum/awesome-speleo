@@ -81,10 +81,12 @@ There's plenty of headlamps on the market, so only lighting designed or suitable
 
 Please read [Through-the-earth mine communications](https://en.wikipedia.org/wiki/Through-the-earth_mine_communications) first for introduction to cave comms. Below only operational systems are listed:
 
-* [HeyPhone](http://bcra.org.uk/creg/heyphone/introduction.html)
-* [Systeme Nicola](https://pe2bz.philpem.me.uk/Comm/-%20ELF-VLF/-%20ELF-Theory/-%20CaveTheory/CaveRadio1/System-Nicola-Mk2/SYTEME_NICOLA_Mk2.html)
-* [CaveLink](https://www.cavelink.com/cl3x_neu/index.php/en/)
-* [Sybet](https://sybet.eu/batnode/)
+* [HeyPhone](http://bcra.org.uk/creg/heyphone/introduction.html), through-the-earth at 87 kHz
+* [Systeme Nicola](https://pe2bz.philpem.me.uk/Comm/-%20ELF-VLF/-%20ELF-Theory/-%20CaveTheory/CaveRadio1/System-Nicola-Mk2/SYTEME_NICOLA_Mk2.html), through-the-earth at 87 kHz
+* [CaveLink](https://www.cavelink.com/cl3x_neu/index.php/en/), through-the-earth at 20-140 kHz
+* [Sybet](https://sybet.eu/batnode/), relay-based, proprietary protocol at 868 MHz
+* [Vangelis](https://github.com/semper-ad-fundum/vangelis), relay-based on open-source [Meshtastic](https://meshtastic.org) protocol and LoRa hardware
+* [Persefon](https://jaskinie.jaszczur.org/persefon/), single-wire
 
 Reading:
 
