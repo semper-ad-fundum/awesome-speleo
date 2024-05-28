@@ -33,25 +33,25 @@ Software and hardware for precise (<1 m) object location:
 
 Mobile apps used underground for data collection and sketching:
 
-* [Qave](https://play.google.com/store/apps/details?id=com.svist.qave)
-* [SexyTopo](https://play.google.com/store/apps/details?id=org.hwyl.sexytopo)
-* [TopoDroid](https://sites.google.com/site/speleoapps/home/topodroid) do not install app from Google Play Store, it's outdated
+* [Qave](https://play.google.com/store/apps/details?id=com.svist.qave), Android
+* [SexyTopo](https://play.google.com/store/apps/details?id=org.hwyl.sexytopo), Android, open-source
+* [TopoDroidX](https://sites.google.com/site/speleoapps/home/topodroid), Android, do not install app from Google Play Store as it's outdated
 
 ### Data management and sketching
 
 Cave survey data management and sketching apps:
 
-* [Compass](https://fountainware.com/compass/index.htm)
-* [GHTopo](https://ghtopo.blog4ever.com/ghtopo)
-* [Survex](https://survex.com)
-* [Therion](https://therion.speleo.sk)
-* [Tunnel](https://github.com/CaveSurveying/tunnelx)
-* [Walls](https://www.texasspeleologicalsurvey.org/software/walls/tsswalls.php)
+* [Compass](https://fountainware.com/compass/index.htm), Windows
+* [GHTopo](https://ghtopo.blog4ever.com/ghtopo), Windows, Linux, open-source
+* [Survex](https://survex.com), Windows, Linux, open-source
+* [Therion](https://therion.speleo.sk), Windows, Linux, open-source
+* [Tunnel](https://github.com/CaveSurveying/tunnelx), Java, open-source
+* [Walls](https://www.texasspeleologicalsurvey.org/software/walls/tsswalls.php), Windows
 
 ### Other
 
-* [CaveWhere](https://cavewhere.com) visualise cave surveys as 3D models
-* [TerrainTool](http://ubss.org.uk/terraintool/terraintool.php) create surface topographic data for the cave survey packages Survex and Therion
+* [CaveWhere](https://cavewhere.com), Windows, MacOS, Linux, open-source - visualise cave surveys as 3D models
+* [TerrainTool](http://ubss.org.uk/terraintool/terraintool.php), Java, open-source create surface topographic data for the cave survey packages Survex and Therion
 
 ### Photogrammetry
 
