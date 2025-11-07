@@ -12,12 +12,19 @@ Data collection:
 * [Disto XBLE](https://www.youtube.com/watch?v=6OvoH-lpF4c), DistoX2 redesigned by Siwei Tian (China)
 * [SAP (Shetland Attack Pony)](https://www.shetlandattackpony.co.uk/index.php?route=common/home)
 * [Cave Sniper](https://speleonews.pl/cave-sniper/)
+* [CavWay X1](https://cavedevice.com/blogs/cave-survey/cavway-x1-the-next-generation-cave-survey-tools)
 
 LIDAR:
 
 * [Caveatron](http://www.caveatron.com)
 * [Poor Man's Laser Scanner (PMLS)](https://github.com/poormanslaserscanner) continuous scanning firmware for DistoX2, discontinued
 * [Prometheus](https://3dcavesurveys.com/index.php/prometheus/), upcoming
+* [Mandeye](https://github.com/MapsHD/HDMapping), DIY Lidar design for cave mapping
+
+Muon tomography:
+
+* [Ideon Reveal](https://ideon.ai/reveal-platform-technology/), commercial muon tomography for underground surveys
+* [CosmicWatch](https://github.com/spenceraxani/CosmicWatch-Desktop-Muon-Detector-v2), open-source low-cost underground muon detector
 
 GNSS:
 
@@ -86,6 +93,7 @@ Please read [Through-the-earth mine communications](https://en.wikipedia.org/wik
 * [CaveLink](https://www.cavelink.com/cl3x_neu/index.php/en/), through-the-earth at 20-140 kHz
 * [Sybet](https://sybet.eu/batnode/), relay-based, proprietary protocol at 868 MHz
 * [Vangelis](https://github.com/semper-ad-fundum/vangelis), relay-based on open-source [Meshtastic](https://meshtastic.org) protocol and LoRa hardware
+* [MeshoCan](https://espeleosocorro.es/red-meshocan-de-comunicaciones-inalambricas-en-cueva/), simplified reimplementation of Vangelis from Spain (in Spanish)
 * [Persefon](https://jaskinie.jaszczur.org/persefon/), single-wire
 
 Reading:
