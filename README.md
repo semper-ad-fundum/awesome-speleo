@@ -3,6 +3,16 @@
 Awesome caving and speleology resources. Add new suggestions in [Issues](https://github.com/kravietz/awesome-speleo/issues)
 or ready entries in [Pull Requests](https://github.com/kravietz/awesome-speleo/pulls).
 
+## Caving chat
+
+![Matrix](https://matrix.org/ecosystem/clients/element.svg)
+
+* [#therion-general:matrix.org](https://matrix.to/#/#therion-general:matrix.org)
+* [#cave-surveying:matrix.org](https://matrix.to/#/#cave-surveying:matrix.org)
+* [#cave-comms:nitro.chat](https://matrix.to/#/#cave-surveying:matrix.org)
+* [#cave-rigging:nitro.chat](https://matrix.to/#/#cave-rigging:nitro.chat)
+* [#cave-rigging:nitro.chat](https://matrix.to/#/#cave-rescue:nitro.chat)
+
 ## Surveying hardware
 
 Data collection:
