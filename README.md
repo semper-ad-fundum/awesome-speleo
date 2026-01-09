@@ -62,6 +62,7 @@ Cave survey data management and sketching apps:
 * [GHTopo](https://ghtopo.blog4ever.com/ghtopo), Windows, Linux, open-source
 * [Survex](https://survex.com), Windows, Linux, open-source
 * [Therion](https://therion.speleo.sk), Windows, Linux, open-source
+  * [Mapiah](https://github.com/rsevero/mapiah), new GUI for Therion
 * [Tunnel](https://github.com/CaveSurveying/tunnelx), Java, open-source
 * [Walls](https://www.texasspeleologicalsurvey.org/software/walls/tsswalls.php), Windows
 
