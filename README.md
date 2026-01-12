@@ -104,8 +104,9 @@ Please read [Through-the-earth mine communications](https://en.wikipedia.org/wik
 * [CaveLink](https://www.cavelink.com/cl3x_neu/index.php/en/), through-the-earth at 20-140 kHz
 * [Sybet](https://sybet.eu/batnode/), relay-based, proprietary protocol at 868 MHz
 * [Vangelis](https://github.com/semper-ad-fundum/vangelis), relay-based on open-source [Meshtastic](https://meshtastic.org) protocol and LoRa hardware
-* [MeshoCan](https://espeleosocorro.es/red-meshocan-de-comunicaciones-inalambricas-en-cueva/), simplified reimplementation of Vangelis from Spain (in Spanish)
-* [Persefon](https://jaskinie.jaszczur.org/persefon/), single-wire
+  * [MeshoCan](https://espeleosocorro.es/red-meshocan-de-comunicaciones-inalambricas-en-cueva/), Vangelis extension by ESOCAN (Spain)
+  * [Flamingo](https://github.com/rbreesems/flamingo), Vangelis extension by Huntsville Cave Rescue Unit (HCRU), including RS485 serial cable link
+* [Persefon](https://jaskinie.jaszczur.org/persefon/), single-wire underground telephone
 
 Reading:
 
