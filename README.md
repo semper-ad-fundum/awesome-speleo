@@ -97,16 +97,17 @@ There's plenty of headlamps on the market, so only lighting designed or suitable
 
 ## Cave communications
 
-Please read [Through-the-earth mine communications](https://en.wikipedia.org/wiki/Through-the-earth_mine_communications) first for introduction to cave comms. Below only operational systems are listed:
+Please read [Through-the-earth mine communications](https://en.wikipedia.org/wiki/Through-the-earth_mine_communications) first for introduction to cave comms.
+Only operational systems are listed 
 
-* [HeyPhone](http://bcra.org.uk/creg/heyphone/introduction.html), through-the-earth at 87 kHz
-* [Systeme Nicola](https://pe2bz.philpem.me.uk/Comm/-%20ELF-VLF/-%20ELF-Theory/-%20CaveTheory/CaveRadio1/System-Nicola-Mk2/SYTEME_NICOLA_Mk2.html), through-the-earth at 87 kHz
-* [CaveLink](https://www.cavelink.com/cl3x_neu/index.php/en/), through-the-earth at 20-140 kHz
-* [Sybet](https://sybet.eu/batnode/), relay-based, proprietary protocol at 868 MHz
-* [Vangelis](https://github.com/semper-ad-fundum/vangelis), relay-based on open-source [Meshtastic](https://meshtastic.org) protocol and LoRa hardware
+* [HeyPhone](http://bcra.org.uk/creg/heyphone/introduction.html), through-the-earth at 87 kHz (United Kingdom)
+* [Systeme Nicola](https://pe2bz.philpem.me.uk/Comm/-%20ELF-VLF/-%20ELF-Theory/-%20CaveTheory/CaveRadio1/System-Nicola-Mk2/SYTEME_NICOLA_Mk2.html), through-the-earth at 87 kHz (France)
+* [CaveLink](https://www.cavelink.com/cl3x_neu/index.php/en/), through-the-earth at 20-140 kHz (Switzerland)
+* [Sybet](https://sybet.eu/batnode/), relay-based, proprietary protocol at 868 MHz (Poland)
+* [Vangelis](https://github.com/semper-ad-fundum/vangelis), relay-based on open-source [Meshtastic](https://meshtastic.org) protocol and LoRa hardware (GCRG, United Kingdom)
   * [MeshoCan](https://espeleosocorro.es/red-meshocan-de-comunicaciones-inalambricas-en-cueva/), Vangelis extension by ESOCAN (Spain)
-  * [Flamingo](https://github.com/rbreesems/flamingo), Vangelis extension by Huntsville Cave Rescue Unit (HCRU), including RS485 serial cable link
-* [Persefon](https://jaskinie.jaszczur.org/persefon/), single-wire underground telephone
+  * [Flamingo](https://github.com/rbreesems/flamingo), Vangelis extension by Huntsville Cave Rescue Unit (HCRU, Alabama), including RS485 serial cable link
+* [Persefon](https://jaskinie.jaszczur.org/persefon/), single-wire underground telephone (Poland)
 
 Reading:
 
